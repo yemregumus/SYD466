@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectTreeState projectID="FC8NeVGGAqAECgWp" projectPath="D:\school stuff\4thSemester\SYD466\lab2\lab2.vpp">
+	<TreeState name="ModelRepository" viewX="0" viewY="0">
+		<ExpandedPath>ModelRepository</ExpandedPath>
+		<ExpandedPath>ModelRepository,CbRV.VGGAqAEChd1</ExpandedPath>
+	</TreeState>
+	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
+		<ExpandedPath>DiagramNavigator</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
+		<ExpandedPath>ClassDiagram</ExpandedPath>
+		<ExpandedPath>InteractionDiagram</ExpandedPath>
+		<SelectedPath>ClassDiagram,VJiNeVGGAqAECgkl</SelectedPath>
+	</TreeState>
+	<TreeState name="ClassBrowser" viewX="0" viewY="0"/>
+	<TreeState name="LogicalView" viewX="0" viewY="0"/>
+	<TreeState name="DiagramBacklog" viewX="0" viewY="0"/>
+</ProjectTreeState>
