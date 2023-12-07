@@ -2,10 +2,10 @@
 <ProjectsViewInfo>
 	<DiagramOpenInfos activeDiagramId="9JYZBVGGAqAECgh4">
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="VJiNeVGGAqAECgkl" maximized="true" offsetX="0" offsetY="0"/>
-		<Info bounds="Re:0.0,0.0,1894.0,885.0" diagramId="9JYZBVGGAqAECgh4" maximized="true" offsetX="123" offsetY="720"/>
+		<Info bounds="Re:0.0,0.0,1894.0,885.0" diagramId="9JYZBVGGAqAECgh4" maximized="true" offsetX="123" offsetY="600"/>
 	</DiagramOpenInfos>
 	<DiagramLastActivated>
-		<Diagram id="9JYZBVGGAqAECgh4" time="1695138147087"/>
+		<Diagram id="9JYZBVGGAqAECgh4" time="1699737070661"/>
 		<Diagram id="VJiNeVGGAqAECgkl" time="1695138147006"/>
 		<Diagram id="Use Case Statement" time="0"/>
 		<Diagram id="Use Case" time="0"/>
